@@ -9,7 +9,7 @@ I’m a tech enthusiast who enjoys backend development. I have experience in:
 - C++
 - C#
 - C
-SQL (for working with databases)
+- SQL (for working with databases)
 
 As part of the **Kohaq Tech Internship**, I’m currently learning **frontend web development** and **Shopify**.
 
